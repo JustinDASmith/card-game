@@ -26,4 +26,4 @@ The "Hunt the Ace" card game is implemented using HTML, CSS, and JavaScript. Pla
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/justindasmith/hunt-the-ace.git
+   git clone https://github.com/card-game.git
